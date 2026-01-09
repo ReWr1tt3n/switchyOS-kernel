@@ -13,7 +13,8 @@ With an explicit syscall exception, as stated at:
 
 In addition, other licenses may also apply. Please see:
 
-	Documentation/process/license-rules.rst
+	linux-krnl-repodocs/process/license-rules.rst
+	(This repository fork does not change what is in the file mentioned above.)
 
 for more details.
 

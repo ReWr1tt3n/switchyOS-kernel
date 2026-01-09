@@ -1,29 +1,27 @@
-### WILL CHANGE THE README LATER
-
-Linux kernel
+What is swoskrnl?
 ============
 
-The Linux kernel is the core of any Linux operating system. It manages hardware,
-system resources, and provides the fundamental services for all other software.
+swoskrnl (or switchyOS kernel) is the core part of any Switchy setup,
+providing necessary tools and architecture to make the system work properly.
 
 Quick Start
 -----------
 
-* Report a bug: See Documentation/admin-guide/reporting-issues.rst
-* Get the latest kernel: https://kernel.org
-* Build the kernel: See Documentation/admin-guide/quickly-build-trimmed-linux.rst
-* Join the community: https://lore.kernel.org/
+* Build the kernel: See linux-krnl-repodocs/admin-guide/quickly-build-trimmed-linux.rst
+* Report a bug: See swoskrnl-repodocs/admin-guide/reporting-issues.rst (old documentations still at linux-krnl-repodocs, for your information)
+* Get the lastest kernel: See `git pull ReUn1Fi3d\swoskrnl`
+* Join the community: Was there?
 
 Essential Documentation
 -----------------------
 
 All users should be familiar with:
 
-* Building requirements: Documentation/process/changes.rst
-* Code of Conduct: Documentation/process/code-of-conduct.rst
+* Building requirements: linux-krnl-repodocs/process/changes.rst
+* Code of Conduct: linux-krnl-repodocs/process/code-of-conduct.rst
 * License: See COPYING
 
-Documentation can be built with make htmldocs or viewed online at:
+The original Linux documentation can be built with `make htmldocs` or viewed online at:
 https://www.kernel.org/doc/html/latest/
 
 
@@ -44,6 +42,8 @@ Find your role below:
 
 For Specific Users
 ==================
+
+/Documentation is the same as /linux-krnl-repodocs due to preversations and potential conflicts.
 
 New Kernel Developer
 --------------------
@@ -151,8 +151,5 @@ Package and distribute the kernel:
 Communication and Support
 =========================
 
-* Mailing Lists: https://lore.kernel.org/
-* IRC: #kernelnewbies on irc.oftc.net
-* Bugzilla: https://bugzilla.kernel.org/
-* MAINTAINERS file: Lists subsystem maintainers and mailing lists
-* Email Clients: Documentation/process/email-clients.rst
+* Discord: `thatsreunified`
+* Email: `r3un1t3d.wav3g@gmail.com`
